@@ -1,0 +1,12 @@
+{
+  "export_job_id": "b0c41eba-bb15-47ae-a608-256050c36ccf",
+  "id_short": 505997,
+  "published_at": "2026-04-13T19:06:14Z",
+  "repo_name": "the-hhi-monopoly-index-for-cincinnati-metro-area-oh-ky-in-us-sample-505997",
+  "sample_asset_name": "beamstation_505997_restaurants-us-cincinnatiohkyin_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/505997/beamstation_505997_restaurants-us-cincinnatiohkyin_SAMPLE_DIST.csv",
+  "sample_records": 3,
+  "sample_sha256": "ef18b8f2ec41a56012c4409500f82b99f6875741a78d1a190e47cd92b1cd7607",
+  "sample_size_bytes": 27925,
+  "total_records": 120
+}
