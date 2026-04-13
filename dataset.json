@@ -1,0 +1,22 @@
+{
+  "base_price": 1495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
+  "config_name": "The HHI Monopoly Index for Cincinnati Metro Area, OH-KY-IN, US",
+  "export_job_id": "b0c41eba-bb15-47ae-a608-256050c36ccf",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 505997,
+  "location_name": "Cincinnati, OH-KY-IN",
+  "location_type": "metro",
+  "repo_name": "the-hhi-monopoly-index-for-cincinnati-metro-area-oh-ky-in-us-sample-505997",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/505997/beamstation_505997_restaurants-us-cincinnatiohkyin_SAMPLE_DIST.csv",
+  "sample_pct": 2.5,
+  "sample_records": 3,
+  "sample_sha256": "ef18b8f2ec41a56012c4409500f82b99f6875741a78d1a190e47cd92b1cd7607",
+  "sample_size_bytes": 27925,
+  "total_records": 120,
+  "updated_at": "2026-03-31T23:30:35.464360+00:00"
+}
